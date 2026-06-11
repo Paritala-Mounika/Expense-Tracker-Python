@@ -9,3 +9,5 @@ A simple Expense Tracker built using Python and Tkinter
 ## Technologies Used
 -Python
 -Tkinter
+## Screenshot
+screenshot.png
